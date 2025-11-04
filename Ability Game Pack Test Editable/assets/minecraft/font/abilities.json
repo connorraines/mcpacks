@@ -1,0 +1,14 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:textures/font/empty_ability.png",
+      "ascent": 7,
+      "height": 10,
+      "chars": [
+        "N"
+      ]
+    }
+  ]
+}
+
